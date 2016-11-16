@@ -1,2 +1,1 @@
-TokyoOlympics是关东升老师编写的《iOS开发指南》教学案例。
-
+TokyoOlympics是智捷课堂教学案例，也是关东升老师编写《iOS开发指南》书中案例。
